@@ -1,0 +1,16 @@
+@import "./reset.scss";
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600&display=swap");
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+html {
+  font-size: 12px;
+}
